@@ -1,3 +1,2 @@
 # lnko
-This is just how I learn GitHub
-LNKO
+SZTE - Diszkrét matematika 2. - szorgalmi feladat
